@@ -4,3 +4,9 @@
 
 # Package Files
 *.jar
+
+*.DS_Store
+
+*.classpath
+
+*.project
