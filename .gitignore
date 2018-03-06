@@ -1,0 +1,14 @@
+# Compiled class file
+*.class
+
+
+# Package Files
+*.jar
+
+*.DS_Store
+
+*.classpath
+
+*.project
+
+.settings/org.eclipse.jdt.core.prefs
